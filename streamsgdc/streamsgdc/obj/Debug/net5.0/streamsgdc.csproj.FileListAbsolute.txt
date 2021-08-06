@@ -1,0 +1,16 @@
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\bin\Debug\net5.0\streamsgdc.exe
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\bin\Debug\net5.0\streamsgdc.deps.json
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\bin\Debug\net5.0\streamsgdc.runtimeconfig.json
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\bin\Debug\net5.0\streamsgdc.runtimeconfig.dev.json
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\bin\Debug\net5.0\streamsgdc.dll
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\bin\Debug\net5.0\ref\streamsgdc.dll
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\bin\Debug\net5.0\streamsgdc.pdb
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\obj\Debug\net5.0\streamsgdc.csproj.AssemblyReference.cache
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\obj\Debug\net5.0\streamsgdc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\obj\Debug\net5.0\streamsgdc.AssemblyInfoInputs.cache
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\obj\Debug\net5.0\streamsgdc.AssemblyInfo.cs
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\obj\Debug\net5.0\streamsgdc.csproj.CoreCompileInputs.cache
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\obj\Debug\net5.0\streamsgdc.dll
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\obj\Debug\net5.0\ref\streamsgdc.dll
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\obj\Debug\net5.0\streamsgdc.pdb
+C:\Users\dariu\Desktop\IA\streams\streams\streamsgdc\streamsgdc\obj\Debug\net5.0\streamsgdc.genruntimeconfig.cache
